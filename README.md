@@ -1,1 +1,1 @@
-# QuanX
+# QuantumultX配置

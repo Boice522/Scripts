@@ -8,12 +8,12 @@ const JD_API_HOST = 'https://api.m.jd.com/client.action';
 const cookie = $prefs.valueForKey('CookieJD')
 const name = '京东水果'
 // let $={};
-var shareCodes = [ // 这个列表填入你要助力的好友的shareCode, 最多可能是5个? 没有验证过
-    '54b2cb20fb42474ca61a8212fd5ba79f',
+var shareCodes = [ // 这个列表填入你要助力的好友的shareCode, 最多可能是5个? 没有验证过 
     'fbd3681f335247d299d294bcf698e2c7',
+    '06201a1d62524929a6f8f96ee9f4dffa',
     'b68f97fd61724fe68066cca9ab636ada',
-    '05acc8e881204394b19768010fecf381',
-    '2c16353e3af04585b404da175e8ce4f6',  
+    '6e54ecd5ce2b47d485d9616ee92c61a2',
+    'ef34214f8e224ca784f33d3167c75a1b',    
 ]
 var Task = step();
 Task.next();

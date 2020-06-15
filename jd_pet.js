@@ -7,11 +7,11 @@ const JD_API_HOST = 'https://api.m.jd.com/client.action';
 const cookie = $prefs.valueForKey('CookieJD')
 
 var shareCodes = [ // 这个列表填入你要助力的好友的shareCode, 最多可能是5个? 没有验证过
-    'MTAxODc2NTE0NzAwMDAwMDAyNzU0Mjg4MQ==',
     'MTAxODcxOTI2NTAwMDAwMDAyNzQ4MjgyMQ==',
-    'MTAxODc2NTEzMjAwMDAwMDAyNzA4MjY0Nw==',
     'MTAxODc2NTEzMjAwMDAwMDAyNzA3MzI1MQ==',
-    'MTAxODc2NTEzMDAwMDAwMDAyNzUzOTQwOQ==',
+    'MTAxODc2NTE0NzAwMDAwMDAyNzU0Mjg4MQ==',
+    'MTAxODc2NTEzNDAwMDAwMDAxNjAxODM5Mw==',
+    'MTAxODc2NTEzNDAwMDAwMDAyNzA3NDA2OQ==',
 ]
 
 var petInfo = null;

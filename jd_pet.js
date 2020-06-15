@@ -8,6 +8,10 @@ const cookie = $prefs.valueForKey('CookieJD')
 
 var shareCodes = [ // 这个列表填入你要助力的好友的shareCode, 最多可能是5个? 没有验证过
     'MTAxODc2NTE0NzAwMDAwMDAyNzU0Mjg4MQ==',
+    'MTAxODcxOTI2NTAwMDAwMDAyNzQ4MjgyMQ==',
+    'MTAxODc2NTEzMjAwMDAwMDAyNzA4MjY0Nw==',
+    'MTAxODc2NTEzMjAwMDAwMDAyNzA3MzI1MQ==',
+    'MTAxODc2NTEzMDAwMDAwMDAyNzUzOTQwOQ==',
 ]
 
 var petInfo = null;

@@ -13,6 +13,7 @@ var shareCodes = [ // 这个列表填入你要助力的好友的shareCode, 最�
     'fbd3681f335247d299d294bcf698e2c7',
     'b68f97fd61724fe68066cca9ab636ada',
     '05acc8e881204394b19768010fecf381',
+    '2c16353e3af04585b404da175e8ce4f6',  
 ]
 var Task = step();
 Task.next();

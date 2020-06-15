@@ -9,7 +9,9 @@ const cookie = $prefs.valueForKey('CookieJD')
 const name = '京东水果'
 // let $={};
 var shareCodes = [ // 这个列表填入你要助力的好友的shareCode, 最多可能是5个? 没有验证过
-    '022ec75f750e41c09114070fb4a00f16',
+    '54b2cb20fb42474ca61a8212fd5ba79f',
+    'fbd3681f335247d299d294bcf698e2c7',
+    'b68f97fd61724fe68066cca9ab636ada',
 ]
 var Task = step();
 Task.next();

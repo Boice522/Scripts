@@ -101,7 +101,6 @@ var shareCodes = [ // 这个列表填入你要助力的好友的shareCode
     'fbd3681f335247d299d294bcf698e2c7',
     '06201a1d62524929a6f8f96ee9f4dffa',
     'b68f97fd61724fe68066cca9ab636ada',
-    '6e54ecd5ce2b47d485d9616ee92c61a2',
     'ef34214f8e224ca784f33d3167c75a1b',
 ]
 var Task = step();

@@ -94,7 +94,6 @@ var shareCodes = [ // 这个列表填入你要助力的好友的shareCode, 最�
     'MTAxODcxOTI2NTAwMDAwMDAyNzQ4MjgyMQ==',
     'MTAxODc2NTEzMjAwMDAwMDAyNzA3MzI1MQ==',
     'MTAxODc2NTE0NzAwMDAwMDAyNzU0Mjg4MQ==',
-    'MTAxODc2NTEzNDAwMDAwMDAxNjAxODM5Mw==',
     'MTAxODc2NTEzNDAwMDAwMDAyNzA3NDA2OQ==',
 ]
 

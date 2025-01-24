@@ -1,0 +1,311 @@
+#EXTM3U
+#EXTINF:-1 group-title="中国电信-重庆-组播",重庆卫视
+http://ly123.fun:10000/udp/235.254.198.34:1412
+#EXTINF:-1 group-title="中国电信-重庆-组播",CQTV影视
+http://ly123.fun:10000/udp/235.254.196.209:1108
+#EXTINF:-1 group-title="中国电信-重庆-组播",CQTV都市
+http://ly123.fun:10000/udp/235.254.196.210:1112
+#EXTINF:-1 group-title="中国电信-重庆-组播",CQTV时尚
+http://ly123.fun:10000/udp/235.254.196.211:1116
+#EXTINF:-1 group-title="中国电信-重庆-组播",CQTV娱乐
+http://ly123.fun:10000/udp/235.254.196.212:1120
+#EXTINF:-1 group-title="中国电信-重庆-组播",CQTV公共农村
+http://ly123.fun:10000/udp/235.254.196.213:1124
+#EXTINF:-1 group-title="中国电信-重庆-组播",CQTV少儿
+http://ly123.fun:10000/udp/235.254.196.214:1128
+#EXTINF:-1 group-title="中国电信-重庆-组播",CQTV科教
+http://ly123.fun:10000/udp/235.254.196.215:1132
+#EXTINF:-1 group-title="中国电信-重庆-组播",CQTV生活
+http://ly123.fun:10000/udp/235.254.196.216:1136
+#EXTINF:-1 group-title="中国电信-重庆-组播",CQTV汽摩
+http://ly123.fun:10000/udp/235.254.196.221:1156
+#EXTINF:-1 group-title="中国电信-重庆-组播",睛彩重庆
+http://ly123.fun:10000/udp/235.254.196.218:1146
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV1高清
+http://ly123.fun:10000/udp/235.254.198.51:1480
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV2高清
+http://ly123.fun:10000/udp/235.254.198.52:1484
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV3高清
+http://ly123.fun:10000/udp/235.254.198.53:1488
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV4高清
+http://ly123.fun:10000/udp/235.254.198.183:7980
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV5高清
+http://ly123.fun:10000/udp/235.254.198.54:1492
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV5+高清
+http://ly123.fun:10000/udp/235.254.198.122:1764
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV6高清
+http://ly123.fun:10000/udp/235.254.198.55:1496
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV7高清
+http://ly123.fun:10000/udp/235.254.198.56:1500
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV8高清
+http://ly123.fun:10000/udp/235.254.198.57:1504
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV9高清
+http://ly123.fun:10000/udp/235.254.198.58:1508
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV10高清
+http://ly123.fun:10000/udp/235.254.198.59:1512
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV11
+http://ly123.fun:10000/udp/235.254.198.7:1304
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV12高清
+http://ly123.fun:10000/udp/235.254.198.60:1516
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV13
+http://ly123.fun:10000/udp/235.254.198.9:1312
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV15
+http://ly123.fun:10000/udp/235.254.198.11:1320
+#EXTINF:-1 group-title="中国电信-重庆-组播",CQTV新闻超高清
+http://ly123.fun:10000/udp/235.254.196.199:7980
+#EXTINF:-1 group-title="中国电信-重庆-组播",CQTV手持电视
+http://ly123.fun:10000/udp/235.254.196.219:1148
+#EXTINF:-1 group-title="中国电信-重庆-组播",CQTV移动
+http://ly123.fun:10000/udp/235.254.196.217:1140
+#EXTINF:-1 group-title="中国电信-重庆-组播",家有购物
+http://ly123.fun:10000/udp/235.254.198.150:1882
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV少儿高清
+http://ly123.fun:10000/udp/235.254.198.61:1520
+#EXTINF:-1 group-title="中国电信-重庆-组播",时尚购物
+http://ly123.fun:10000/udp/235.254.196.220:1154
+#EXTINF:-1 group-title="中国电信-重庆-组播",家家购物
+http://ly123.fun:10000/udp/235.254.198.177:7980
+#EXTINF:-1 group-title="中国电信-重庆-组播",环球购物
+http://ly123.fun:10000/udp/235.254.198.176:7980
+#EXTINF:-1 group-title="中国电信-重庆-组播",优购物
+http://ly123.fun:10000/udp/235.254.198.178:7980
+#EXTINF:-1 group-title="中国电信-重庆-组播",风尚购物
+http://ly123.fun:10000/udp/235.254.198.179:7980
+#EXTINF:-1 group-title="中国电信-重庆-组播",江苏卫视超高清
+http://ly123.fun:10000/udp/235.254.198.64:1532
+#EXTINF:-1 group-title="中国电信-重庆-组播",浙江卫视超高清
+http://ly123.fun:10000/udp/235.254.198.63:1528
+#EXTINF:-1 group-title="中国电信-重庆-组播",东方卫视超高清
+http://ly123.fun:10000/udp/235.254.198.73:1568
+#EXTINF:-1 group-title="中国电信-重庆-组播",深圳卫视高清
+http://ly123.fun:10000/udp/235.254.198.71:1560
+#EXTINF:-1 group-title="中国电信-重庆-组播",北京卫视超高清
+http://ly123.fun:10000/udp/235.254.198.66:1540
+#EXTINF:-1 group-title="中国电信-重庆-组播",山东卫视高清
+http://ly123.fun:10000/udp/235.254.198.69:1552
+#EXTINF:-1 group-title="中国电信-重庆-组播",天津卫视超高清
+http://ly123.fun:10000/udp/235.254.198.67:1544
+#EXTINF:-1 group-title="中国电信-重庆-组播",贵州卫视超高清
+http://ly123.fun:10000/udp/235.254.198.185:7980
+#EXTINF:-1 group-title="中国电信-重庆-组播",四川卫视超高清
+http://ly123.fun:10000/udp/235.254.198.175:7980
+#EXTINF:-1 group-title="中国电信-重庆-组播",云南卫视
+http://ly123.fun:10000/udp/235.254.198.25:1376
+#EXTINF:-1 group-title="中国电信-重庆-组播",广西卫视
+http://ly123.fun:10000/udp/235.254.198.38:1428
+#EXTINF:-1 group-title="中国电信-重庆-组播",黑龙江卫视超高清
+http://ly123.fun:10000/udp/235.254.198.70:1556
+#EXTINF:-1 group-title="中国电信-重庆-组播",安徽卫视超高清
+http://ly123.fun:10000/udp/235.254.198.65:1536
+#EXTINF:-1 group-title="中国电信-重庆-组播",山西卫视
+http://ly123.fun:10000/udp/235.254.198.41:1440
+#EXTINF:-1 group-title="中国电信-重庆-组播",江西卫视
+http://ly123.fun:10000/udp/235.254.198.29:1392
+#EXTINF:-1 group-title="中国电信-重庆-组播",湖北卫视高清
+http://ly123.fun:10000/udp/235.254.198.72:1564
+#EXTINF:-1 group-title="中国电信-重庆-组播",旅游卫视
+http://ly123.fun:10000/udp/235.254.198.44:1452
+#EXTINF:-1 group-title="中国电信-重庆-组播",陕西卫视
+http://ly123.fun:10000/udp/235.254.198.40:1436
+#EXTINF:-1 group-title="中国电信-重庆-组播",东南卫视超高清
+http://ly123.fun:10000/udp/235.254.198.129:7980
+#EXTINF:-1 group-title="中国电信-重庆-组播",吉林卫视
+http://ly123.fun:10000/udp/235.254.198.39:1432
+#EXTINF:-1 group-title="中国电信-重庆-组播",辽宁卫视高清
+http://ly123.fun:10000/udp/235.254.198.68:1548
+#EXTINF:-1 group-title="中国电信-重庆-组播",内蒙古卫视
+http://ly123.fun:10000/udp/235.254.198.42:1444
+#EXTINF:-1 group-title="中国电信-重庆-组播",湖南卫视超高清
+http://ly123.fun:10000/udp/235.254.198.62:1524
+#EXTINF:-1 group-title="中国电信-重庆-组播",广东卫视高清
+http://ly123.fun:10000/udp/235.254.196.204:1088
+#EXTINF:-1 group-title="中国电信-重庆-组播",河南卫视
+http://ly123.fun:10000/udp/235.254.198.26:1380
+#EXTINF:-1 group-title="中国电信-重庆-组播",河北卫视高清
+http://ly123.fun:10000/udp/235.254.198.184:7980
+#EXTINF:-1 group-title="中国电信-重庆-组播",宁夏卫视
+http://ly123.fun:10000/udp/235.254.198.45:1456
+#EXTINF:-1 group-title="中国电信-重庆-组播",甘肃卫视
+http://ly123.fun:10000/udp/235.254.198.48:1468
+#EXTINF:-1 group-title="中国电信-重庆-组播",少儿动画
+http://ly123.fun:10000/udp/235.254.198.116:1740
+#EXTINF:-1 group-title="中国电信-重庆-组播",卡酷动画
+http://ly123.fun:10000/udp/235.254.198.49:1472
+#EXTINF:-1 group-title="中国电信-重庆-组播",金鹰卡通
+http://ly123.fun:10000/udp/235.254.198.50:1476
+#EXTINF:-1 group-title="中国电信-重庆-组播",嘉佳卡通
+http://ly123.fun:10000/udp/235.254.198.110:1716
+#EXTINF:-1 group-title="中国电信-重庆-组播",魅力时尚
+http://ly123.fun:10000/udp/235.254.198.115:1736
+#EXTINF:-1 group-title="中国电信-重庆-组播",青海卫视
+http://ly123.fun:10000/udp/235.254.198.43:1448
+#EXTINF:-1 group-title="中国电信-重庆-组播",新疆卫视
+http://ly123.fun:10000/udp/235.254.198.47:1464
+#EXTINF:-1 group-title="中国电信-重庆-组播",西藏卫视
+http://ly123.fun:10000/udp/235.254.198.46:1460
+#EXTINF:-1 group-title="中国电信-重庆-组播",纪实高清
+http://ly123.fun:10000/udp/235.254.198.121:1760
+#EXTINF:-1 group-title="中国电信-重庆-组播",IPTV3
+http://ly123.fun:10000/udp/235.254.198.13:1328
+#EXTINF:-1 group-title="中国电信-重庆-组播",IPTV5
+http://ly123.fun:10000/udp/235.254.198.14:1332
+#EXTINF:-1 group-title="中国电信-重庆-组播",IPTV6
+http://ly123.fun:10000/udp/235.254.198.15:1336
+#EXTINF:-1 group-title="中国电信-重庆-组播",IPTV8
+http://ly123.fun:10000/udp/235.254.198.16:1340
+#EXTINF:-1 group-title="中国电信-重庆-组播",CGTN
+http://ly123.fun:10000/udp/235.254.198.127:1784
+#EXTINF:-1 group-title="中国电信-重庆-组播",熊猫频道
+http://ly123.fun:10000/udp/235.254.198.133:1808
+#EXTINF:-1 group-title="中国电信-重庆-组播",收视指南
+http://ly123.fun:10000/udp/235.254.198.112:1724
+#EXTINF:-1 group-title="中国电信-重庆-组播",财富天下
+http://ly123.fun:10000/udp/235.254.198.108:1708
+#EXTINF:-1 group-title="中国电信-重庆-组播",IPTV谍战剧场
+http://ly123.fun:10000/udp/235.254.198.117:1744
+#EXTINF:-1 group-title="中国电信-重庆-组播",IPTV相声小品
+http://ly123.fun:10000/udp/235.254.198.118:1748
+#EXTINF:-1 group-title="中国电信-重庆-组播",IPTV野外
+http://ly123.fun:10000/udp/235.254.198.119:1752
+#EXTINF:-1 group-title="中国电信-重庆-组播",IPTV法治
+http://ly123.fun:10000/udp/235.254.198.120:1756
+#EXTINF:-1 group-title="中国电信-重庆-组播",热播剧场
+http://ly123.fun:10000/udp/235.254.198.113:1728
+#EXTINF:-1 group-title="中国电信-重庆-组播",经典电影
+http://ly123.fun:10000/udp/235.254.198.114:1732
+#EXTINF:-1 group-title="中国电信-重庆-组播",城市剧场
+http://ly123.fun:10000/udp/235.254.198.74:1572
+#EXTINF:-1 group-title="中国电信-重庆-组播",军旅剧场
+http://ly123.fun:10000/udp/235.254.198.75:1576
+#EXTINF:-1 group-title="中国电信-重庆-组播",古装剧场
+http://ly123.fun:10000/udp/235.254.198.76:1580
+#EXTINF:-1 group-title="中国电信-重庆-组播",音乐现场
+http://ly123.fun:10000/udp/235.254.198.77:1584
+#EXTINF:-1 group-title="中国电信-重庆-组播",地理
+http://ly123.fun:10000/udp/235.254.198.78:1588
+#EXTINF:-1 group-title="中国电信-重庆-组播",美妆
+http://ly123.fun:10000/udp/235.254.198.79:1592
+#EXTINF:-1 group-title="中国电信-重庆-组播",美人
+http://ly123.fun:10000/udp/235.254.198.80:1596
+#EXTINF:-1 group-title="中国电信-重庆-组播",精选
+http://ly123.fun:10000/udp/235.254.198.81:1600
+#EXTINF:-1 group-title="中国电信-重庆-组播",解密
+http://ly123.fun:10000/udp/235.254.198.82:1604
+#EXTINF:-1 group-title="中国电信-重庆-组播",军事
+http://ly123.fun:10000/udp/235.254.198.83:1608
+#EXTINF:-1 group-title="中国电信-重庆-组播",国学
+http://ly123.fun:10000/udp/235.254.198.84:1612
+#EXTINF:-1 group-title="中国电信-重庆-组播",戏曲
+http://ly123.fun:10000/udp/235.254.198.85:1616
+#EXTINF:-1 group-title="中国电信-重庆-组播",早教
+http://ly123.fun:10000/udp/235.254.198.86:1620
+#EXTINF:-1 group-title="中国电信-重庆-组播",动画
+http://ly123.fun:10000/udp/235.254.198.87:1624
+#EXTINF:-1 group-title="中国电信-重庆-组播",精彩导视
+http://ly123.fun:10000/udp/235.254.196.101:1162
+#EXTINF:-1 group-title="中国电信-重庆-组播",好学生
+http://ly123.fun:10000/udp/235.254.198.88:1628
+#EXTINF:-1 group-title="中国电信-重庆-组播",鉴赏
+http://ly123.fun:10000/udp/235.254.198.89:1632
+#EXTINF:-1 group-title="中国电信-重庆-组播",墨宝
+http://ly123.fun:10000/udp/235.254.198.90:1636
+#EXTINF:-1 group-title="中国电信-重庆-组播",光影
+http://ly123.fun:10000/udp/235.254.198.91:1640
+#EXTINF:-1 group-title="中国电信-重庆-组播",台球
+http://ly123.fun:10000/udp/235.254.198.92:1644
+#EXTINF:-1 group-title="中国电信-重庆-组播",爱生活
+http://ly123.fun:10000/udp/235.254.198.93:1648
+#EXTINF:-1 group-title="中国电信-重庆-组播",武术
+http://ly123.fun:10000/udp/235.254.198.94:1652
+#EXTINF:-1 group-title="中国电信-重庆-组播",高网
+http://ly123.fun:10000/udp/235.254.198.95:1656
+#EXTINF:-1 group-title="中国电信-重庆-组播",足球
+http://ly123.fun:10000/udp/235.254.198.96:1660
+#EXTINF:-1 group-title="中国电信-重庆-组播",武侠剧场
+http://ly123.fun:10000/udp/235.254.198.97:1664
+#EXTINF:-1 group-title="中国电信-重庆-组播",喜剧影院
+http://ly123.fun:10000/udp/235.254.198.98:1668
+#EXTINF:-1 group-title="中国电信-重庆-组播",动作影院
+http://ly123.fun:10000/udp/235.254.198.99:1672
+#EXTINF:-1 group-title="中国电信-重庆-组播",家庭影院
+http://ly123.fun:10000/udp/235.254.198.100:1676
+#EXTINF:-1 group-title="中国电信-重庆-组播",星影
+http://ly123.fun:10000/udp/235.254.198.101:1680
+#EXTINF:-1 group-title="中国电信-重庆-组播",CQTV新闻
+http://ly123.fun:10000/udp/235.254.196.208:1104
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV1
+http://ly123.fun:10000/udp/235.254.198.1:1280
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV2
+http://ly123.fun:10000/udp/235.254.198.2:1284
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV3
+http://ly123.fun:10000/udp/235.254.198.141:1842
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV4
+http://ly123.fun:10000/udp/235.254.198.3:1288
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV5
+http://ly123.fun:10000/udp/235.254.198.142:1846
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV6
+http://ly123.fun:10000/udp/235.254.198.143:1852
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV7
+http://ly123.fun:10000/udp/235.254.198.4:1292
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV8
+http://ly123.fun:10000/udp/235.254.198.144:1856
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV9
+http://ly123.fun:10000/udp/235.254.198.5:1296
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV10
+http://ly123.fun:10000/udp/235.254.198.6:1300
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV12
+http://ly123.fun:10000/udp/235.254.198.8:1308
+#EXTINF:-1 group-title="中国电信-重庆-组播",CCTV少儿
+http://ly123.fun:10000/udp/235.254.198.10:1316
+#EXTINF:-1 group-title="中国电信-重庆-组播",江苏卫视
+http://ly123.fun:10000/udp/235.254.198.19:1352
+#EXTINF:-1 group-title="中国电信-重庆-组播",湖南卫视
+http://ly123.fun:10000/udp/235.254.198.17:1344
+#EXTINF:-1 group-title="中国电信-重庆-组播",东方卫视
+http://ly123.fun:10000/udp/235.254.198.33:1408
+#EXTINF:-1 group-title="中国电信-重庆-组播",北京卫视
+http://ly123.fun:10000/udp/235.254.198.21:1360
+#EXTINF:-1 group-title="中国电信-重庆-组播",浙江卫视
+http://ly123.fun:10000/udp/235.254.198.18:1348
+#EXTINF:-1 group-title="中国电信-重庆-组播",深圳卫视
+http://ly123.fun:10000/udp/235.254.198.31:1400
+#EXTINF:-1 group-title="中国电信-重庆-组播",安徽卫视
+http://ly123.fun:10000/udp/235.254.198.20:1356
+#EXTINF:-1 group-title="中国电信-重庆-组播",山东卫视
+http://ly123.fun:10000/udp/235.254.198.24:1372
+#EXTINF:-1 group-title="中国电信-重庆-组播",广东卫视
+http://ly123.fun:10000/udp/235.254.198.37:1424
+#EXTINF:-1 group-title="中国电信-重庆-组播",天津卫视
+http://ly123.fun:10000/udp/235.254.198.22:1364
+#EXTINF:-1 group-title="中国电信-重庆-组播",四川卫视
+http://ly123.fun:10000/udp/235.254.198.28:1388
+#EXTINF:-1 group-title="中国电信-重庆-组播",辽宁卫视
+http://ly123.fun:10000/udp/235.254.198.23:1368
+#EXTINF:-1 group-title="中国电信-重庆-组播",黑龙江卫视
+http://ly123.fun:10000/udp/235.254.198.27:1384
+#EXTINF:-1 group-title="中国电信-重庆-组播",贵州卫视
+http://ly123.fun:10000/udp/235.254.198.30:1396
+#EXTINF:-1 group-title="中国电信-重庆-组播",湖北卫视
+http://ly123.fun:10000/udp/235.254.198.32:1404
+#EXTINF:-1 group-title="中国电信-重庆-组播",河北卫视
+http://ly123.fun:10000/udp/235.254.198.128:1788
+#EXTINF:-1 group-title="中国电信-重庆-组播",东南卫视
+http://ly123.fun:10000/udp/235.254.198.35:1416
+#EXTINF:-1 group-title="中国电信-重庆-组播",爱上4K
+http://ly123.fun:10000/udp/235.254.198.102:7980
+#EXTINF:-1 group-title="中国电信-重庆-组播",开县本地电视1
+http://ly123.fun:10000/udp/235.254.198.145:1870
+#EXTINF:-1 group-title="中国电信-重庆-组播",开县本地电视2
+http://ly123.fun:10000/udp/235.254.198.148:1874
+#EXTINF:-1 group-title="中国电信-重庆-组播",芒果TV
+http://ly123.fun:10000/udp/235.254.196.206:7980
+#EXTINF:-1 group-title="中国电信-重庆-组播",长寿本地1
+http://ly123.fun:10000/udp/235.254.196.225:1278
+#EXTINF:-1 group-title="中国电信-重庆-组播",长寿本地2
+http://ly123.fun:10000/udp/235.254.196.223:1282
+#EXTINF:-1 group-title="中国电信-重庆-组播",长寿本地3
+http://ly123.fun:10000/udp/235.254.196.224:1286
+#EXTINF:-1 group-title="中国电信-重庆-组播",音乐之声
+http://ly123.fun:10000/udp/235.254.196.128:1306
+#EXTINF:-1 group-title="中国电信-重庆-组播",江苏晚会4K
+http://ly123.fun:10000/udp/235.254.198.147:1866
